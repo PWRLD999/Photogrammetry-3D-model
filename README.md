@@ -37,10 +37,10 @@ The reconstruction process consists of the following stages:
 
 ## 4. Software Requirements
 
-- Windows 10/11 64-bit
+- Windows 10 64-bit
 - COLMAP
 - OpenMVS
-- MeshLab (optional, for visualization)
+- MeshLab 
 
 ## 5. Repository Structure
 
@@ -75,7 +75,7 @@ The results section includes:
 - COLMAP sparse point cloud
 - OpenMVS dense point cloud
 - Reconstructed 3D mesh
-- Final textured model, if generated
+- Final textured model
 
 ## 7. Applications
 
