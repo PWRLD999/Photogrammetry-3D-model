@@ -12,6 +12,9 @@ The reconstruction pipeline uses COLMAP for Structure-from-Motion (SfM) and Open
 
 The objective is to create a 3D representation of the conch shell from ordinary 2D images without using a dedicated 3D scanner.
 
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/7ba0cf20-b481-48a5-b973-69e81154b5bb" />
+
+
 ## 2. Technologies Used
 
 | Technology | Purpose |
